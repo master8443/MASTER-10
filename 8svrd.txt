@@ -1,1 +1,1 @@
-vless://8ffdb9c6-c3e3-4960-8543-32abcbecb28a@ip.onemaster.sbs:2096?type=ws&security=tls&path=%2F&host=master.onmaster.sbs&sni=ip.onemaster.sbs&fp=chrome#M%20A%20S%20T%20E%20R%201-MST%20%7C%2010
+vless://8ffdb9c6-c3e3-4960-8543-32abcbecb28a@ip.onemaster.sbs:2096?type=ws&security=tls&path=%2F&host=master.onemaster.sbs&sni=ip.onemaster.sbs&fp=chrome#M%20A%20S%20T%20E%20R%201-MST%20%7C%2010
